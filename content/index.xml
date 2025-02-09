@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Marijan Batarilo</title>
-    <link>https://marijan.dev/</link>
-    <description>Recent content on Marijan Batarilo</description>
+    <title>Contents on Marijan Batarilo</title>
+    <link>https://marijan.dev/content/</link>
+    <description>Recent content in Contents on Marijan Batarilo</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
-    <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marijan.dev/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://marijan.dev/about/</link>
+      <link>https://marijan.dev/content/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/about/</guid>
+      <guid>https://marijan.dev/content/posts/about/</guid>
       <description>&lt;h3 id=&#34;hi-im-marijan-batarilo&#34;&gt;Hi, I&amp;rsquo;m Marijan Batarilo&lt;/h3&gt;
 &lt;p&gt;Full-stack developer building secure systems.&lt;/p&gt;
 &lt;p&gt;This site documents my journey through exploring software development, cloud and security.
@@ -19,17 +19,17 @@ Learning, building, and sharing insights along the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://marijan.dev/contact/</link>
+      <link>https://marijan.dev/content/posts/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/contact/</guid>
+      <guid>https://marijan.dev/content/posts/contact/</guid>
       <description>&lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h3&gt;
 &lt;p&gt;You can contact me on &lt;a href=&#34;https://linkedin.com/in/marijan-batarilo/&#34;&gt;LinkedIn&lt;/a&gt; or just send me an &lt;a href=&#34;mailto:marijanbatarilo.dev+marijan.dev@gmail.com&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://marijan.dev/posts/test/</link>
+      <link>https://marijan.dev/content/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/posts/test/</guid>
+      <guid>https://marijan.dev/content/posts/test/</guid>
       <description>&lt;p&gt;&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;images/Pasted%20image%2020241113095849.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
