@@ -18,10 +18,10 @@ params:
   title: Marijan Batarilo
   description: "Exploring software development, cloud and security: Learning, building, and sharing insights along the way."
   keywords: [Cloud Engineering, Software Development]
-  # author: Marijan Batarilo
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  mainSections: ["posts"]
 
   ShowReadingTime: false
   ShowShareButtons: false
@@ -52,21 +52,6 @@ params:
     text: "cyf0rk"
     icon: /apple-touch-icon.png
     iconHeight: 10
-
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: Marijan Batarilo
-    subtitle: "Cloud & Code: A Journey in Software Engineering"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
 
   socialIcons:
     - name: x
@@ -108,6 +93,8 @@ menu:
       name: contact
       url: /contact/
       weight: 30
+frontmatter:
+  lastmod: ["lastmod", ":fileModTime", ":default"]
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
