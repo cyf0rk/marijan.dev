@@ -6,7 +6,7 @@
     <description>Recent content on Marijan Batarilo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:53:30 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:57:37 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
@@ -28,6 +28,13 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://marijan.dev/work/clipster/</guid>
       <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
+    </item>
+    <item>
+      <title>Own Your Corner of the Internet: A Developer&#39;s Guide to Permanent Online Presence</title>
+      <link>https://marijan.dev/posts/own-your-corner-of-the-internet/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/own-your-corner-of-the-internet/</guid>
+      <description>I spent a decade scattering my work across platforms and usernames. Here&amp;rsquo;s the setup that fixed it - one domain, one blog, everything else is distribution.</description>
     </item>
     <item>
       <title>Developers Have Been Dying Since 2003</title>
