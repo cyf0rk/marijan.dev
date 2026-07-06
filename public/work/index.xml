@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Work on Marijan Batarilo</title>
+    <link>https://marijan.dev/work/</link>
+    <description>Recent content in Work on Marijan Batarilo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://marijan.dev/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
+      <link>https://marijan.dev/work/cadenas/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/cadenas/</guid>
+      <description>Where two years of self-taught programming became a career - domain depth, automation instincts, and the cost of the wrong CMS decision.</description>
+    </item>
+    <item>
+      <title>CircuitMess Subscription API: Killing Duplicate Shipments with a Centralized Order Brain</title>
+      <link>https://marijan.dev/work/circuitmess-subscription-api/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/circuitmess-subscription-api/</guid>
+      <description>Greenfield Node.js + GCP + PostgreSQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
+    </item>
+    <item>
+      <title>Clipster: From MVP on a Single Server to 100 Billion Views</title>
+      <link>https://marijan.dev/work/clipster/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/clipster/</guid>
+      <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
+    </item>
+  </channel>
+</rss>

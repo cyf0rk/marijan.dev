@@ -7,8 +7,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -16,12 +14,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Marijan Batarilo
-  description: "Exploring software development, cloud and security: Learning, building, and sharing insights along the way."
-  keywords: [Cloud Engineering, Software Development]
+  description: "I build systems, then break them. Software engineering, cloud, and application security - case studies, writeups, and tooling."
+  keywords: [Software Engineering, Application Security, Cloud Engineering, Ecommerce]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  mainSections: ["posts"]
+  mainSections: ["posts", "work", "lab"]
 
   ShowReadingTime: false
   ShowShareButtons: false
@@ -54,10 +52,10 @@ params:
     iconHeight: 10
 
   socialIcons:
-    - name: x
-      url: "https://x.com/cyf0rk"
     - name: linkedin
       url: "https://linkedin.com/in/marijan-batarilo/"
+    - name: instagram
+      url: "https://www.instagram.com/marijan.dev/"
     - name: github
       url: "https://github.com/cyf0rk"
 
@@ -81,18 +79,26 @@ pagination:
   pagerSize: 5
 menu:
   main:
-    - identifier: home
-      name: home
-      url: /
+    - identifier: work
+      name: work
+      url: /work/
       weight: 10
+    - identifier: lab
+      name: lab
+      url: /lab/
+      weight: 20
+    - identifier: now
+      name: now
+      url: /now/
+      weight: 30
     - identifier: about
       name: about
       url: /about/
-      weight: 20
+      weight: 40
     - identifier: contact
       name: contact
       url: /contact/
-      weight: 30
+      weight: 50
 frontmatter:
   lastmod: ["lastmod", ":fileModTime", ":default"]
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

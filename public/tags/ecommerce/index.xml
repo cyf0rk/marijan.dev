@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ecommerce on Marijan Batarilo</title>
+    <link>https://marijan.dev/tags/ecommerce/</link>
+    <description>Recent content in Ecommerce on Marijan Batarilo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 13:44:44 +0200</lastBuildDate>
+    <atom:link href="https://marijan.dev/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shopify&#39;s March 2026 Dev Platform Update: What Actually Matters</title>
+      <link>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</guid>
+      <description>RBAC in the Dev Dashboard, a faster Admin API, and safer CLI deploys - the highlights worth knowing.</description>
+    </item>
+  </channel>
+</rss>

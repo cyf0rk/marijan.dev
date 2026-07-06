@@ -4,33 +4,83 @@
     <title>Marijan Batarilo</title>
     <link>https://marijan.dev/</link>
     <description>Recent content on Marijan Batarilo</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 14:53:30 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
+      <link>https://marijan.dev/work/cadenas/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/cadenas/</guid>
+      <description>Where two years of self-taught programming became a career - domain depth, automation instincts, and the cost of the wrong CMS decision.</description>
+    </item>
+    <item>
+      <title>CircuitMess Subscription API: Killing Duplicate Shipments with a Centralized Order Brain</title>
+      <link>https://marijan.dev/work/circuitmess-subscription-api/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/circuitmess-subscription-api/</guid>
+      <description>Greenfield Node.js + GCP + PostgreSQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
+    </item>
+    <item>
+      <title>Clipster: From MVP on a Single Server to 100 Billion Views</title>
+      <link>https://marijan.dev/work/clipster/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/work/clipster/</guid>
+      <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
+    </item>
+    <item>
+      <title>Developers Have Been Dying Since 2003</title>
+      <link>https://marijan.dev/posts/developers-have-been-dying-since-2003/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/developers-have-been-dying-since-2003/</guid>
+      <description>Every AI wave was supposed to kill developers. Every wave just raised the floor.</description>
+    </item>
+    <item>
+      <title>Shopify&#39;s March 2026 Dev Platform Update: What Actually Matters</title>
+      <link>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</guid>
+      <description>RBAC in the Dev Dashboard, a faster Admin API, and safer CLI deploys - the highlights worth knowing.</description>
+    </item>
+    <item>
+      <title>Beyond the Badge: What I Learned Passing the Google Cloud Associate Engineer Exam</title>
+      <link>https://marijan.dev/posts/beyond-the-badge-gcp-ace/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/beyond-the-badge-gcp-ace/</guid>
+      <description>The ACE exam tests how you think, not what you memorized. How I prepared, what actually helped, and what the certification means beyond the badge.</description>
+    </item>
+    <item>
+      <title>About</title>
       <link>https://marijan.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marijan.dev/about/</guid>
       <description>&lt;h3 id=&#34;hi-im-marijan-batarilo&#34;&gt;Hi, I&amp;rsquo;m Marijan Batarilo&lt;/h3&gt;
-&lt;p&gt;Full-stack developer building secure systems.&lt;/p&gt;
-&lt;p&gt;This site documents my journey through exploring software development, cloud and security.
-Learning, building, and sharing insights along the way.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;I build systems, then break them.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Seven years of production backends — ecommerce platforms, cloud infrastructure (GCP), systems under real load. Now doing application security on the same kinds of systems I used to build: a lot of the code shipping today is AI-generated, and it ships fast and breaks worse.&lt;/p&gt;
+&lt;p&gt;This site is the permanent home for everything I make and write — case studies from real projects, security writeups, and tooling. Platforms come and go; this stays.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Contact</title>
       <link>https://marijan.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marijan.dev/contact/</guid>
       <description>&lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h3&gt;
-&lt;p&gt;You can contact me on &lt;a href=&#34;https://linkedin.com/in/marijan-batarilo/&#34;&gt;LinkedIn&lt;/a&gt; or just send me an &lt;a href=&#34;mailto:marijanbatarilo.dev+marijan.dev@gmail.com&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;p&gt;You can contact me on &lt;a href=&#34;https://linkedin.com/in/marijan-batarilo/&#34;&gt;LinkedIn&lt;/a&gt; or just send me an &lt;a href=&#34;mailto:hello@marijan.dev&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Code lives on &lt;a href=&#34;https://github.com/cyf0rk&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>https://marijan.dev/posts/test-post/</link>
+      <title>Now</title>
+      <link>https://marijan.dev/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/posts/test-post/</guid>
-      <description>&lt;p&gt;this post is for testing purposes&lt;/p&gt;</description>
+      <guid>https://marijan.dev/now/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Updated July 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Building and running ecommerce backends for clients (Shopify, BigCommerce, Hydrogen, GCP).&lt;/li&gt;
+&lt;li&gt;Studying application security daily — working through PortSwigger labs toward the Burp Suite Certified Practitioner exam, starting web bug bounty hunting.&lt;/li&gt;
+&lt;li&gt;Engineering my AI agent harness and automation tooling as a force multiplier for everything above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Based in Zagreb, Croatia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
