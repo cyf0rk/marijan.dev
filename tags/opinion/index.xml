@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Opinion on Marijan Batarilo</title>
+    <link>https://marijan.dev/tags/opinion/</link>
+    <description>Recent content in Opinion on Marijan Batarilo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 13:44:42 +0200</lastBuildDate>
+    <atom:link href="https://marijan.dev/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developers Have Been Dying Since 2003</title>
+      <link>https://marijan.dev/posts/developers-have-been-dying-since-2003/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/developers-have-been-dying-since-2003/</guid>
+      <description>Every AI wave was supposed to kill developers. Every wave just raised the floor.</description>
+    </item>
+  </channel>
+</rss>

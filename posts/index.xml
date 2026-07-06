@@ -4,15 +4,30 @@
     <title>Posts on Marijan Batarilo</title>
     <link>https://marijan.dev/posts/</link>
     <description>Recent content in Posts on Marijan Batarilo</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 06 Jul 2026 13:44:44 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://marijan.dev/posts/test-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/posts/test-post/</guid>
-      <description>&lt;p&gt;this post is for testing purposes&lt;/p&gt;</description>
+      <title>Developers Have Been Dying Since 2003</title>
+      <link>https://marijan.dev/posts/developers-have-been-dying-since-2003/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/developers-have-been-dying-since-2003/</guid>
+      <description>Every AI wave was supposed to kill developers. Every wave just raised the floor.</description>
+    </item>
+    <item>
+      <title>Shopify&#39;s March 2026 Dev Platform Update: What Actually Matters</title>
+      <link>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/shopify-march-2026-dev-platform-update/</guid>
+      <description>RBAC in the Dev Dashboard, a faster Admin API, and safer CLI deploys - the highlights worth knowing.</description>
+    </item>
+    <item>
+      <title>Beyond the Badge: What I Learned Passing the Google Cloud Associate Engineer Exam</title>
+      <link>https://marijan.dev/posts/beyond-the-badge-gcp-ace/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/posts/beyond-the-badge-gcp-ace/</guid>
+      <description>The ACE exam tests how you think, not what you memorized. How I prepared, what actually helped, and what the certification means beyond the badge.</description>
     </item>
   </channel>
 </rss>
