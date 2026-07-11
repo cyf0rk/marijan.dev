@@ -6,27 +6,27 @@
     <description>Recent content on Marijan Batarilo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:29:16 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:18:10 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
-      <link>https://marijan.dev/work/cadenas/</link>
+      <link>https://marijan.dev/case-studies/cadenas/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/work/cadenas/</guid>
+      <guid>https://marijan.dev/case-studies/cadenas/</guid>
       <description>Where two years of self-taught programming became a career - domain depth, automation instincts, and the cost of the wrong CMS decision.</description>
     </item>
     <item>
       <title>CircuitMess Subscription API: Killing Duplicate Shipments with a Centralized Order Brain</title>
-      <link>https://marijan.dev/work/circuitmess-subscription-api/</link>
+      <link>https://marijan.dev/case-studies/circuitmess-subscription-api/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/work/circuitmess-subscription-api/</guid>
-      <description>Greenfield Node.js + GCP + PostgreSQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
+      <guid>https://marijan.dev/case-studies/circuitmess-subscription-api/</guid>
+      <description>Greenfield Node.js + GCP + MySQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
     </item>
     <item>
       <title>Clipster: From MVP on a Single Server to 100 Billion Views</title>
-      <link>https://marijan.dev/work/clipster/</link>
+      <link>https://marijan.dev/case-studies/clipster/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/work/clipster/</guid>
+      <guid>https://marijan.dev/case-studies/clipster/</guid>
       <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
     </item>
     <item>
@@ -34,7 +34,7 @@
       <link>https://marijan.dev/posts/own-your-corner-of-the-internet/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://marijan.dev/posts/own-your-corner-of-the-internet/</guid>
-      <description>I spent a decade scattering my work across platforms and usernames. Here&amp;rsquo;s the setup that fixed it - one domain, one blog, everything else is distribution.</description>
+      <description>I spent a decade scattering my work across platforms and usernames. Here&amp;rsquo;s the setup that fixed it: one domain, one blog, everything else is distribution.</description>
     </item>
     <item>
       <title>Developers Have Been Dying Since 2003</title>
@@ -64,8 +64,8 @@
       <guid>https://marijan.dev/about/</guid>
       <description>&lt;h3 id=&#34;hi-im-marijan-batarilo&#34;&gt;Hi, I&amp;rsquo;m Marijan Batarilo&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;I build systems, then break them.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Seven years of production backends, e-commerce platforms, cloud infrastructure (GCP), systems under real load. Now doing application security on the same kinds of systems I used to build: a lot of the code shipping today is AI-generated, and it ships fast and breaks worse.&lt;/p&gt;
-&lt;p&gt;This site is the permanent home for everything I make and write, case studies from real projects, security writeups, and tooling.&lt;/p&gt;</description>
+&lt;p&gt;Over seven years of production backends, e-commerce platforms, cloud infrastructure (GCP), systems under real load. Now doing application security on the same kinds of systems I used to build. A lot of the code shipping today is AI-generated, and it ships fast and breaks worse.&lt;/p&gt;
+&lt;p&gt;This site is the permanent home for everything I make and write, case studies from real projects, security writeups, learnings and tooling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -75,20 +75,6 @@
       <description>&lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h3&gt;
 &lt;p&gt;You can contact me on &lt;a href=&#34;https://linkedin.com/in/marijan-batarilo/&#34;&gt;LinkedIn&lt;/a&gt; or just send me an &lt;a href=&#34;mailto:hello@marijan.dev&#34;&gt;email&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Code lives on &lt;a href=&#34;https://github.com/cyf0rk&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Now</title>
-      <link>https://marijan.dev/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/now/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Updated July 2026.&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Building and running e-commerce stores for clients (Shopify, BigCommerce, Hydrogen, GCP, Vercel). Mostly working with Next.js and Go&lt;/li&gt;
-&lt;li&gt;Studying cyber security daily - right now appsec, working through PortSwigger labs toward the Burp Suite Certified Practitioner exam, starting web bug bounty hunting for practice and exploring cyber security to mastery&lt;/li&gt;
-&lt;li&gt;Documenting my journey on social media&lt;/li&gt;
-&lt;li&gt;Contributing to open-source software, my &lt;a href=&#34;https://github.com/cyf0rk&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Engineering my AI agent harness and automation tooling as a force multiplier for everything above&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
