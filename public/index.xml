@@ -6,7 +6,7 @@
     <description>Recent content on Marijan Batarilo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:05:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:19:55 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
@@ -64,8 +64,8 @@
       <guid>https://marijan.dev/about/</guid>
       <description>&lt;h3 id=&#34;hi-im-marijan-batarilo&#34;&gt;Hi, I&amp;rsquo;m Marijan Batarilo&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;I build systems, then break them.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Seven years of production backends — ecommerce platforms, cloud infrastructure (GCP), systems under real load. Now doing application security on the same kinds of systems I used to build: a lot of the code shipping today is AI-generated, and it ships fast and breaks worse.&lt;/p&gt;
-&lt;p&gt;This site is the permanent home for everything I make and write — case studies from real projects, security writeups, and tooling. Platforms come and go; this stays.&lt;/p&gt;</description>
+&lt;p&gt;Seven years of production backends, e-commerce platforms, cloud infrastructure (GCP), systems under real load. Now doing application security on the same kinds of systems I used to build: a lot of the code shipping today is AI-generated, and it ships fast and breaks worse.&lt;/p&gt;
+&lt;p&gt;This site is the permanent home for everything I make and write, case studies from real projects, security writeups, and tooling.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
