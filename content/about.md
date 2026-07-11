@@ -4,7 +4,6 @@ url: /about/
 hidemeta: true
 disableShare: true
 ---
-
 ### Hi, I'm Marijan Batarilo
 
 **I build systems, then break them.**

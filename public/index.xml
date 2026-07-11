@@ -6,29 +6,8 @@
     <description>Recent content on Marijan Batarilo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:18:10 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:01:16 +0200</lastBuildDate>
     <atom:link href="https://marijan.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
-      <link>https://marijan.dev/case-studies/cadenas/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/case-studies/cadenas/</guid>
-      <description>Where two years of self-taught programming became a career - domain depth, automation instincts, and the cost of the wrong CMS decision.</description>
-    </item>
-    <item>
-      <title>CircuitMess Subscription API: Killing Duplicate Shipments with a Centralized Order Brain</title>
-      <link>https://marijan.dev/case-studies/circuitmess-subscription-api/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/case-studies/circuitmess-subscription-api/</guid>
-      <description>Greenfield Node.js + GCP + MySQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
-    </item>
-    <item>
-      <title>Clipster: From MVP on a Single Server to 100 Billion Views</title>
-      <link>https://marijan.dev/case-studies/clipster/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://marijan.dev/case-studies/clipster/</guid>
-      <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
-    </item>
     <item>
       <title>Own Your Corner of the Internet: A Developer&#39;s Guide to Permanent Online Presence</title>
       <link>https://marijan.dev/posts/own-your-corner-of-the-internet/</link>
@@ -42,6 +21,27 @@
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <guid>https://marijan.dev/posts/developers-have-been-dying-since-2003/</guid>
       <description>Every AI wave was supposed to kill developers. Every wave just raised the floor.</description>
+    </item>
+    <item>
+      <title>Clipster: From MVP on a Single Server to 100 Billion Views</title>
+      <link>https://marijan.dev/case-studies/clipster/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/case-studies/clipster/</guid>
+      <description>Backend rewrite from a single-server Svelte MVP to Go + GCP + PostgreSQL - creator payouts, OAuth RFCs, and scale.</description>
+    </item>
+    <item>
+      <title>CircuitMess Subscription API: Killing Duplicate Shipments with a Centralized Order Brain</title>
+      <link>https://marijan.dev/case-studies/circuitmess-subscription-api/</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/case-studies/circuitmess-subscription-api/</guid>
+      <description>Greenfield Node.js + GCP + MySQL subscription API that ended 100+ duplicate shipments for a Forbes-featured STEM toy company.</description>
+    </item>
+    <item>
+      <title>CADENAS: Three and a Half Years Learning to Be a Software Engineer</title>
+      <link>https://marijan.dev/case-studies/cadenas/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://marijan.dev/case-studies/cadenas/</guid>
+      <description>Where two years of self-taught programming became a career - domain depth, automation instincts, and the cost of the wrong CMS decision.</description>
     </item>
     <item>
       <title>Shopify&#39;s March 2026 Dev Platform Update: What Actually Matters</title>
