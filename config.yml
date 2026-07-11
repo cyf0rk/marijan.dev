@@ -79,26 +79,22 @@ pagination:
   pagerSize: 5
 menu:
   main:
-    - identifier: work
-      name: work
-      url: /work/
+    - identifier: case-studies
+      name: case studies
+      url: /case-studies/
       weight: 10
     - identifier: lab
       name: lab
       url: /lab/
       weight: 20
-    - identifier: now
-      name: now
-      url: /now/
-      weight: 30
     - identifier: about
       name: about
       url: /about/
-      weight: 40
+      weight: 30
     - identifier: contact
       name: contact
       url: /contact/
-      weight: 50
+      weight: 40
 frontmatter:
   lastmod: ["lastmod", ":fileModTime", ":default"]
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
